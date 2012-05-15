@@ -1,3 +1,5 @@
 (defproject shop "1.0.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :dependencies [[org.clojure/clojure "1.3.0"]])
+  :description "ecommerce backend"
+  :dependencies [[org.clojure/clojure "1.4.0"]
+                 [org.jboss.netty/netty "3.4.0.Final"]])
+
